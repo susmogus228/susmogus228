@@ -1,0 +1,10 @@
+{
+  "master_sha256": "78467571484fe0594c6912705cb3c12cc1a23ce8da9db45c8253b9a02eee6984",
+  "upload": "assets/avatar/ks-512.png",
+  "width": 512,
+  "height": 512,
+  "bytes": 162382,
+  "sha256": "9d8f1b7bcd34f2e706e31476b58d18182028ef812a4ab1e7bd93efa33d6043d6",
+  "master_unchanged": true,
+  "source": "https://docs.github.com/en/account-and-profile/reference/profile-reference"
+}

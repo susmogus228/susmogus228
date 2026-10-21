@@ -1,0 +1,8 @@
+{
+  "renderer": "GitHub Markdown API response, shown with local assets and stylesheet",
+  "desktop": { "seven_images_loaded": true, "horizontal_overflow": false },
+  "narrow_view": { "requested_width": 390, "document_scroll_width": 375, "seven_images_loaded": true, "horizontal_overflow": false },
+  "proof": ["outputs/review/profile-desktop.jpg", "outputs/review/profile-mobile.jpg"],
+  "live_github_profile": false,
+  "browser_viewport_is_not_physical_device_evidence": true
+}

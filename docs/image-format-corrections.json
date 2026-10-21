@@ -1,0 +1,297 @@
+[
+  {
+    "from": "demandforecast/api-success.png",
+    "to": "demandforecast/api-success.jpg",
+    "sha256_unchanged": "3498e360ca9f19b8e32f805020764133ba09674d3e0f78b34b399972b58a10b1"
+  },
+  {
+    "from": "demandforecast/api-validation.png",
+    "to": "demandforecast/api-validation.jpg",
+    "sha256_unchanged": "8956a1a205a2a97b15a3ded5c2954607a057fb3529f8abe68425d37ba0148788"
+  },
+  {
+    "from": "demandforecast/custom-history-fallback.png",
+    "to": "demandforecast/custom-history-fallback.jpg",
+    "sha256_unchanged": "7ae3c135813deada887e0c4b620994e97f91db45a23044fb1cc6a89ea2b055c8"
+  },
+  {
+    "from": "demandforecast/evaluation-overview.png",
+    "to": "demandforecast/evaluation-overview.jpg",
+    "sha256_unchanged": "ebc71cc34dbf16e8a14d432756ccd48c2c5ff642f872245af232232ced614ead"
+  },
+  {
+    "from": "demandforecast/failure-slices.png",
+    "to": "demandforecast/failure-slices.jpg",
+    "sha256_unchanged": "881f9b54aca54211f4ccc6be7b3494580334eb4b6a83a7b1a3876166414fb16b"
+  },
+  {
+    "from": "demandforecast/forecast-desktop.png",
+    "to": "demandforecast/forecast-desktop.jpg",
+    "sha256_unchanged": "5d2f68976e97dd49c765c5c920b0d3086c1046dd47e4d7d6f8fbe4b6394a9730"
+  },
+  {
+    "from": "demandforecast/forecast-mobile.png",
+    "to": "demandforecast/forecast-mobile.jpg",
+    "sha256_unchanged": "b3d5c6ed96fe9174ce26cad728dd8ec8404d8610f48f9ac24ecdbf853048458e"
+  },
+  {
+    "from": "duplicate-leakage-study/contamination-study.png",
+    "to": "duplicate-leakage-study/contamination-study.jpg",
+    "sha256_unchanged": "8f28a71d1e66c1f2a0098a87d343f49261bd18a14b4e4f9099a10697f92b13df"
+  },
+  {
+    "from": "duplicate-leakage-study/per-seed-limits.png",
+    "to": "duplicate-leakage-study/per-seed-limits.jpg",
+    "sha256_unchanged": "895e6d8a94865cce658057c2dacf39f92aee1a8f06b136755bf5e55d43ca56f4"
+  },
+  {
+    "from": "duplicate-leakage-study/recomputed-summary.png",
+    "to": "duplicate-leakage-study/recomputed-summary.jpg",
+    "sha256_unchanged": "466358d558a8bcec2a7807250ab03bcc887ac1634a48753be405f137d0f552e6"
+  },
+  {
+    "from": "near-duplicate-search/audit-summary.png",
+    "to": "near-duplicate-search/audit-summary.jpg",
+    "sha256_unchanged": "d9df18c146e4f0cef66e04a64b8024f2580a8e82715bb720b9627518d6dbc6b8"
+  },
+  {
+    "from": "near-duplicate-search/exact-output.png",
+    "to": "near-duplicate-search/exact-output.jpg",
+    "sha256_unchanged": "222f8bd6df2dc4fd2c10ca1e1424afc816be3d688a2e8a274168ba5841bc6ec5"
+  },
+  {
+    "from": "pitomo/account-entry.png",
+    "to": "pitomo/account-entry.jpg",
+    "sha256_unchanged": "759a4952520a98e39c355b357656b2f607e7aafc8cd373c1ab891c97a25cadae"
+  },
+  {
+    "from": "pitomo/cart-desktop.png",
+    "to": "pitomo/cart-desktop.jpg",
+    "sha256_unchanged": "8f920e1a1888b183f5ce2dbe1d9640739925d877efe2b2425e01cd23341d797e"
+  },
+  {
+    "from": "pitomo/cart-mobile.png",
+    "to": "pitomo/cart-mobile.jpg",
+    "sha256_unchanged": "62f7b60fcf8f1e433224c3aa3e35139a137bc5b406eb5a1788e9111ac7428cf4"
+  },
+  {
+    "from": "pitomo/catalog-desktop.png",
+    "to": "pitomo/catalog-desktop.jpg",
+    "sha256_unchanged": "31a159711dbba1277ce9c777a87d89e405c22fd135de58d83b0f501d04d8e21f"
+  },
+  {
+    "from": "pitomo/catalog-filters.png",
+    "to": "pitomo/catalog-filters.jpg",
+    "sha256_unchanged": "5c7c3725172b128227eb29deb5878bb734ff05bebba0f59852691b7de82d3056"
+  },
+  {
+    "from": "pitomo/empty-guest-cart.png",
+    "to": "pitomo/empty-guest-cart.jpg",
+    "sha256_unchanged": "a41b76b34599ff7af1ba8ec689bbbd1fb96503312363fc6b32e25d635416de75"
+  },
+  {
+    "from": "pitomo/home-desktop.png",
+    "to": "pitomo/home-desktop.jpg",
+    "sha256_unchanged": "d3b1ee2fd46dca0e41eb23230c8b6c576a13951762ea108c679b4ede055684e5"
+  },
+  {
+    "from": "pitomo/home-mobile.png",
+    "to": "pitomo/home-mobile.jpg",
+    "sha256_unchanged": "ae2dfdbe4e47d9f6e0083201dcca8e80c1efa0c186b5af296eb892112999a4d4"
+  },
+  {
+    "from": "pitomo/product-desktop.png",
+    "to": "pitomo/product-desktop.jpg",
+    "sha256_unchanged": "387bc171cfe0d75da878f7f43163056cc7f8efef22afd571d35d5f4e270a3ee7"
+  },
+  {
+    "from": "reliable-text/api-success.png",
+    "to": "reliable-text/api-success.jpg",
+    "sha256_unchanged": "fc3b824f1b8c78ef667126df68c8c1b3acff43faa935d6a8ee1e10f1ec550bd5"
+  },
+  {
+    "from": "reliable-text/api-validation.png",
+    "to": "reliable-text/api-validation.jpg",
+    "sha256_unchanged": "35f89e360d1f95e7319e6ee61cf1aaab28f0244c6cce7f02d9cb5ee684575376"
+  },
+  {
+    "from": "reliable-text/classifier-mobile.png",
+    "to": "reliable-text/classifier-mobile.jpg",
+    "sha256_unchanged": "a1758e39ff9d9b5bb32a3d008f424f5da3e467d76925a83c02eb803ed7851f1a"
+  },
+  {
+    "from": "reliable-text/coverage-diagnostic.png",
+    "to": "reliable-text/coverage-diagnostic.jpg",
+    "sha256_unchanged": "a8119a2c154c2aede1234f46c1fc4ce18af2712cebf13ef04ca5ae6377a4c956"
+  },
+  {
+    "from": "reliable-text/duplicate-comparison.png",
+    "to": "reliable-text/duplicate-comparison.jpg",
+    "sha256_unchanged": "7b9552ba56e4a14050aac638306d1020984677ee4e3cdc3ef3537187b6a326e6"
+  },
+  {
+    "from": "reliable-text/ham-prediction.png",
+    "to": "reliable-text/ham-prediction.jpg",
+    "sha256_unchanged": "569790b9f3c04499e04f3c24680c8fa4a3a26f4c7ea182fc7fafba450aeb0c8d"
+  },
+  {
+    "from": "reliable-text/spam-prediction.png",
+    "to": "reliable-text/spam-prediction.jpg",
+    "sha256_unchanged": "ddfccfe1860ab8b9991f7cd4c75139550314d1df7fe2422e34c1b8068e93047c"
+  },
+  {
+    "from": "reliable-text/study-all-seeds.png",
+    "to": "reliable-text/study-all-seeds.jpg",
+    "sha256_unchanged": "9140b26450e79f6324d57ccf971828611db2ac0cfc1a9b2ebe996b0f28af9cc0"
+  },
+  {
+    "from": "reliable-text/study-seed33.png",
+    "to": "reliable-text/study-seed33.jpg",
+    "sha256_unchanged": "b16928b70cc308e0be8c4092e90de7600b7f903973227783ec527acac4a14779"
+  },
+  {
+    "from": "reliable-text/unsupported-input.png",
+    "to": "reliable-text/unsupported-input.jpg",
+    "sha256_unchanged": "26af3b2c233c176334aa312dffccb52aeda955d9fe16243a45397b832e9be972"
+  },
+  {
+    "from": "routelab/api-success.png",
+    "to": "routelab/api-success.jpg",
+    "sha256_unchanged": "1d4bdad10b92afe2477ee7ccf42f787abd49367147458c52bf29f12c7dfa3955"
+  },
+  {
+    "from": "routelab/api-validation.png",
+    "to": "routelab/api-validation.jpg",
+    "sha256_unchanged": "05ea17a48986f240b53dc3b4f6931d1067522b78f638a601bf743c7e838cc7da"
+  },
+  {
+    "from": "routelab/benchmark.png",
+    "to": "routelab/benchmark.jpg",
+    "sha256_unchanged": "bed14c5f8533ece3dfc70ac26420f9461e0acd6cf987a5954f9f61c6f6db76c5"
+  },
+  {
+    "from": "routelab/bridge-closures.png",
+    "to": "routelab/bridge-closures.jpg",
+    "sha256_unchanged": "62f830903623b0b8b13f20b859b9d9863215c02fce7c0e118b99d4869d08802a"
+  },
+  {
+    "from": "routelab/congestion-desktop.png",
+    "to": "routelab/congestion-desktop.jpg",
+    "sha256_unchanged": "9ba48a1786c23fa3f22c41a2a2377e559830ee75a7625f82287d919167727b17"
+  },
+  {
+    "from": "routelab/congestion-mobile.png",
+    "to": "routelab/congestion-mobile.jpg",
+    "sha256_unchanged": "8c3572059c6ce373dd6490bf14721d051e680a0fe3148eddf59a6d2bc700e2d1"
+  },
+  {
+    "from": "routelab/second-crossing.png",
+    "to": "routelab/second-crossing.jpg",
+    "sha256_unchanged": "0283f0bef00a5b26e31d4b233fde6a816058dea5b515dbeabfe7e3a965717ba2"
+  },
+  {
+    "from": "routelab/workspace-desktop.png",
+    "to": "routelab/workspace-desktop.jpg",
+    "sha256_unchanged": "7185b1309fa081a23724673eb4a75e7423e55a0f92da73f83ce9ead9f080e92f"
+  },
+  {
+    "from": "unknownvision/api-success.png",
+    "to": "unknownvision/api-success.jpg",
+    "sha256_unchanged": "ded657985034e26016252490d14a19a822121a6aef7b514b9ccf05d7371816aa"
+  },
+  {
+    "from": "unknownvision/api-validation.png",
+    "to": "unknownvision/api-validation.jpg",
+    "sha256_unchanged": "59ff837263aec5468c0bed0464db1777d86bc571581e12e8db9fa22df3b3b3b3"
+  },
+  {
+    "from": "unknownvision/candidate-review.png",
+    "to": "unknownvision/candidate-review.jpg",
+    "sha256_unchanged": "feb2affce64eef3ec23732a9e9222ba0b2149ac2c2aa5fcdffb50be6674eb3c4"
+  },
+  {
+    "from": "unknownvision/confident-mistake-detail.png",
+    "to": "unknownvision/confident-mistake-detail.jpg",
+    "sha256_unchanged": "107f44def1f05e261c2510ddfd180e4fbabdee6943ef6a53356cf9b0e0b8625d"
+  },
+  {
+    "from": "unknownvision/confident-mistake.png",
+    "to": "unknownvision/confident-mistake.jpg",
+    "sha256_unchanged": "d5a641f8b78efb67714d5cb00b647d97886240f2312c546364fe72339bc8cf4e"
+  },
+  {
+    "from": "unknownvision/detector-disagreement.png",
+    "to": "unknownvision/detector-disagreement.jpg",
+    "sha256_unchanged": "35c7c2f4d5648af9f38c3a5939cb7d800721c1499d74a32f2f85dbd991861079"
+  },
+  {
+    "from": "unknownvision/digit-baseline.png",
+    "to": "unknownvision/digit-baseline.jpg",
+    "sha256_unchanged": "56abc2c4fba3388f55c817b3f5ee3e3418dfdf5adf7857fcdf2940775f877dea"
+  },
+  {
+    "from": "unknownvision/external-photo-probe.png",
+    "to": "unknownvision/external-photo-probe.jpg",
+    "sha256_unchanged": "12ce0a3ca7770ae90621d05ac239f36911bd1d3accbe34bb2c765bb6af70423e"
+  },
+  {
+    "from": "unknownvision/history-after-restart.png",
+    "to": "unknownvision/history-after-restart.jpg",
+    "sha256_unchanged": "978d4ebc6d9768ff66f5c4eeb47248f9f24cdc597ae85f87a1b16c5d2b575981"
+  },
+  {
+    "from": "unknownvision/history-detail.png",
+    "to": "unknownvision/history-detail.jpg",
+    "sha256_unchanged": "85ce81768298e01b5a77b79654776e74489f365da3b9e5753058ff08f230ecb4"
+  },
+  {
+    "from": "unknownvision/invalid-upload.png",
+    "to": "unknownvision/invalid-upload.jpg",
+    "sha256_unchanged": "ef671c32212c2ca839c67a7db4ce6903d10ede222d72643456cac54e072640a0"
+  },
+  {
+    "from": "unknownvision/manual-correction.png",
+    "to": "unknownvision/manual-correction.jpg",
+    "sha256_unchanged": "eba341db65699f2d5ae58da3833c9bed40c235faac03e94bc4e25bb311258321"
+  },
+  {
+    "from": "unknownvision/own-photo-overview.png",
+    "to": "unknownvision/own-photo-overview.jpg",
+    "sha256_unchanged": "57d46dd6db6d77584a91754fb5ccdcd09a3a46345762a9186f4b91662e80af94"
+  },
+  {
+    "from": "unknownvision/own-photo-result.png",
+    "to": "unknownvision/own-photo-result.jpg",
+    "sha256_unchanged": "6c4c6f21f2a43e77ebf1bf2e0b63682142fbfa6378007830b458b115cdeb5541"
+  },
+  {
+    "from": "unknownvision/own-photo-selected.png",
+    "to": "unknownvision/own-photo-selected.jpg",
+    "sha256_unchanged": "4ef14785280dd95410fdee4097fcdf03f91cf2fb69e66a9290484214d2c79a1b"
+  },
+  {
+    "from": "unknownvision/saved-history.png",
+    "to": "unknownvision/saved-history.jpg",
+    "sha256_unchanged": "aa0bfc6e03ea78e191aba9c540b26e5b61f99cf99f8789fc72f5978716ab4fa7"
+  },
+  {
+    "from": "unknownvision/study-overview.png",
+    "to": "unknownvision/study-overview.jpg",
+    "sha256_unchanged": "c66f6a86eb77315f8895ce6b33257834c65ac0cd3feb386432e5e5a3505d7eac"
+  },
+  {
+    "from": "unknownvision/unfamiliar-object.png",
+    "to": "unknownvision/unfamiliar-object.jpg",
+    "sha256_unchanged": "eae3eb856625461759faf6b58bbde02bc7c2db2f37a9bdecc03c000e5a6c75e9"
+  },
+  {
+    "from": "unknownvision/upload-mobile.png",
+    "to": "unknownvision/upload-mobile.jpg",
+    "sha256_unchanged": "3dc6aa7975dd566b1e7960f93c4c9fbd934c559a0e258478c107f6d47e374ad2"
+  },
+  {
+    "from": "unknownvision/web-suggestions.png",
+    "to": "unknownvision/web-suggestions.jpg",
+    "sha256_unchanged": "c367c2ef593c4b69109281b1586760e245795c231cc83eb70f6f59fe903ad2df"
+  }
+]
