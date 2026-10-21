@@ -1,0 +1,151 @@
+{
+  "checked_utc": "2026-10-21T13:27:16.782025+00:00",
+  "repositories": [
+    {
+      "name": "route-lab",
+      "url": "https://github.com/susmogus228/route-lab",
+      "public": true,
+      "commit": "9f48eb1e720948bc9dacc220a515494bb0977fed",
+      "matches_published_commit": true,
+      "license": "MIT",
+      "ci_runs": [
+        {
+          "conclusion": "success",
+          "databaseId": 39603217192,
+          "headSha": "9f48eb1e720948bc9dacc220a515494bb0977fed",
+          "status": "completed",
+          "url": "https://github.com/susmogus228/route-lab/actions/runs/39603217192",
+          "workflowName": "Tests and package"
+        }
+      ]
+    },
+    {
+      "name": "demand-forecast",
+      "url": "https://github.com/susmogus228/demand-forecast",
+      "public": true,
+      "commit": "352f5c7674ac3e999b691e2842fb2120b77c5e68",
+      "matches_published_commit": true,
+      "license": "NOASSERTION",
+      "ci_runs": [
+        {
+          "conclusion": "success",
+          "databaseId": 39603257442,
+          "headSha": "352f5c7674ac3e999b691e2842fb2120b77c5e68",
+          "status": "completed",
+          "url": "https://github.com/susmogus228/demand-forecast/actions/runs/39603257442",
+          "workflowName": "Tests"
+        }
+      ]
+    },
+    {
+      "name": "unknown-vision",
+      "url": "https://github.com/susmogus228/unknown-vision",
+      "public": true,
+      "commit": "7fc066823319cf0754fe80ab9ac7b2ef06990d98",
+      "matches_published_commit": true,
+      "license": "MIT",
+      "ci_runs": [
+        {
+          "conclusion": "success",
+          "databaseId": 39603419253,
+          "headSha": "7fc066823319cf0754fe80ab9ac7b2ef06990d98",
+          "status": "completed",
+          "url": "https://github.com/susmogus228/unknown-vision/actions/runs/39603419253",
+          "workflowName": "tests"
+        }
+      ]
+    },
+    {
+      "name": "reliable-text-classifier",
+      "url": "https://github.com/susmogus228/reliable-text-classifier",
+      "public": true,
+      "commit": "7c3441d8e027e30e376f5411b812f525c297d228",
+      "matches_published_commit": true,
+      "license": "MIT",
+      "ci_runs": [
+        {
+          "conclusion": "success",
+          "databaseId": 39603455220,
+          "headSha": "7c3441d8e027e30e376f5411b812f525c297d228",
+          "status": "completed",
+          "url": "https://github.com/susmogus228/reliable-text-classifier/actions/runs/39603455220",
+          "workflowName": "tests"
+        }
+      ]
+    },
+    {
+      "name": "near-duplicate-search",
+      "url": "https://github.com/susmogus228/near-duplicate-search",
+      "public": true,
+      "commit": "99d32f138dc2a3377ce73b71383d82bde78ae278",
+      "matches_published_commit": true,
+      "license": "MIT",
+      "ci_runs": [
+        {
+          "conclusion": "success",
+          "databaseId": 39603491070,
+          "headSha": "99d32f138dc2a3377ce73b71383d82bde78ae278",
+          "status": "completed",
+          "url": "https://github.com/susmogus228/near-duplicate-search/actions/runs/39603491070",
+          "workflowName": "tests"
+        }
+      ]
+    },
+    {
+      "name": "duplicate-leakage-study",
+      "url": "https://github.com/susmogus228/duplicate-leakage-study",
+      "public": true,
+      "commit": "e30d4520800763fa47feae067b71984a3aac307d",
+      "matches_published_commit": true,
+      "license": "MIT",
+      "ci_runs": [
+        {
+          "conclusion": "success",
+          "databaseId": 39603533119,
+          "headSha": "e30d4520800763fa47feae067b71984a3aac307d",
+          "status": "completed",
+          "url": "https://github.com/susmogus228/duplicate-leakage-study/actions/runs/39603533119",
+          "workflowName": "tests"
+        }
+      ]
+    },
+    {
+      "name": "pitomo",
+      "url": "https://github.com/susmogus228/pitomo",
+      "public": true,
+      "commit": "dea9b5e5e23028a2c6d37296214656f5fcef4f77",
+      "matches_published_commit": true,
+      "license": null,
+      "ci_runs": [
+        {
+          "conclusion": "success",
+          "databaseId": 39607322979,
+          "headSha": "dea9b5e5e23028a2c6d37296214656f5fcef4f77",
+          "status": "completed",
+          "url": "https://github.com/susmogus228/pitomo/actions/runs/39607322979",
+          "workflowName": "Application checks"
+        }
+      ]
+    },
+    {
+      "name": "microbrain-pocket",
+      "url": "https://github.com/susmogus228/microbrain-pocket",
+      "public": true,
+      "commit": "8df607790665c3865c4ea7a5a0fd4378ade76c3e",
+      "matches_published_commit": true,
+      "license": null,
+      "ci_runs": []
+    },
+    {
+      "name": "susmogus228",
+      "url": "https://github.com/susmogus228/susmogus228",
+      "public": true,
+      "commit": "ed424a4a04745b920f232fd49eb80c1a480559e6",
+      "matches_published_commit": true,
+      "license": null,
+      "ci_runs": []
+    }
+  ],
+  "hosting": "Source publication only. Web applications need their own local Python/Docker backend.",
+  "license_decision": "No project license for Pitomo and MicroBrain, as explicitly chosen by the owner."
+}

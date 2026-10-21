@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-21",
+  "profile": "https://github.com/susmogus228",
+  "name": "Kirill Sotnikov",
+  "bio": "Software student exploring data, algorithms and systems. AI-assisted projects with reproducible experiments.",
+  "avatar": "assets/avatar/ks-512.png",
+  "avatar_result": "GitHub displayed the profile-picture-updated confirmation; KS avatar subsequently appeared on the public profile.",
+  "pins": ["microbrain-pocket", "pitomo", "demand-forecast", "route-lab", "unknown-vision", "reliable-text-classifier"],
+  "profile_images": {"unique_banners": 7, "natural_width": 1600, "all_loaded": true},
+  "narrow_viewport": {"width": 390, "horizontal_overflow": false, "proof": "outputs/review/github-profile-mobile.jpg", "method": "Temporary Chrome device metrics with mobile=false; cleared after capture."},
+  "desktop_proof": "outputs/review/github-profile-live.jpg",
+  "unchanged": ["login", "email", "account security", "existing unrelated repositories"],
+  "backend_hosting": false
+}

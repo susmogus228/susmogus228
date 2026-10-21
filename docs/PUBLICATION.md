@@ -1,14 +1,14 @@
-# Publication handoff
+# Approved publication
 
 ## Current state
 
-This package prepares nine repository folders under `outputs/github-staging/`: the `susmogus228` profile repository and eight application/research repositories. It does not push Git commits, create public repositories, upload an avatar or edit account settings. The account was verified as `susmogus228` during preparation.
+The owner explicitly approved the nine named public repositories, Git push, avatar, bio and six pins on 2026-10-21. All nine repositories have been created and pushed under `susmogus228`. Read `PUBLICATION_REPORT.md` and `publication-verification.json` for the final verification state. Existing unrelated repositories remain untouched.
 
 Review `index.html`, the annotated galleries and the independent English review before publication. The source inventory names the actual local roots and source file hashes. Working state, private uploads, environments, dependency caches, Docker volumes and local configuration remain outside the staging folders.
 
-Proposed native profile settings: display name **Kirill Sotnikov**; bio **Software student exploring data, algorithms and systems. AI-assisted projects with reproducible experiments.**; avatar `assets/avatar/ks-512.png`. Retain the login, email and account security settings.
+Approved native profile settings: display name **Kirill Sotnikov**; bio **Software student exploring data, algorithms and systems. AI-assisted projects with reproducible experiments.**; avatar `assets/avatar/ks-512.png`. Login, email and account security settings remain unchanged.
 
-## Proposed repository names
+## Published repository names
 
 | Name | Purpose |
 |---|---|
@@ -24,10 +24,10 @@ Proposed native profile settings: display name **Kirill Sotnikov**; bio **Softwa
 
 Recommended six pinned repositories: `microbrain-pocket`, `pitomo`, `demand-forecast`, `route-lab`, `unknown-vision`, `reliable-text-classifier`. The classifier README and profile table link the two companion text repositories. GitHub supports at most six pins.
 
-## Final publication steps
+## Verification procedure
 
-1. Obtain the user authorization required by their AGENTS.md for Git push and these named public repositories. Existing unrelated repositories remain untouched.
-2. Recheck name collisions and authenticated account, then create/push the approved staged repositories. Record remote URLs and commit IDs.
+1. Record the explicit owner authorization and license choice. Existing unrelated repositories remain untouched.
+2. Check authenticated account and repository visibility; record remote URLs and commit IDs.
 3. Replace the profile's local-preparation note after every linked repository exists. Verify relative image/gallery links on the actual GitHub render.
 4. Set the approved public bio if requested; retain the existing login. Pin six repositories through the account UI.
 5. Check GIF playback and the static alternatives on GitHub. Do not present a local preview as proof of remote rendering.
@@ -36,4 +36,4 @@ The web applications require a local server. No GitHub Pages deployment or paid 
 
 ## License decision
 
-The six AI repositories already include MIT licenses. Pitomo and MicroBrain currently have no project LICENSE. Their dependency notices do not license the user's own project. Before presenting those two as freely reusable open-source projects, ask the owner to approve a project license. Do not silently add legal permissions as a formatting change. Source publication itself does not imply that permission.
+The six AI repositories retain MIT licenses. The owner explicitly chose to leave Pitomo and MicroBrain without a project LICENSE. No license was added and neither is presented as freely reusable open-source software. Dependency notices remain separate from the owner's project licensing decision.

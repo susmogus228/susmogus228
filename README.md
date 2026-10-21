@@ -14,7 +14,7 @@ An Android symbolic agent with explicit facts, source evidence and a bounded per
 
 Kotlin · Jetpack Compose · WorkManager
 
-[Application walkthrough](docs/galleries/microbrain.md) · [Static cover](assets/static/microbrain.png)
+[Source and run instructions](https://github.com/susmogus228/microbrain-pocket) · [Application walkthrough](docs/galleries/microbrain.md) · [Static cover](assets/static/microbrain.png)
 
 ## Pitomo
 
@@ -24,7 +24,7 @@ A pet-store application with a React storefront, Python API and PostgreSQL trans
 
 React / TypeScript · FastAPI · PostgreSQL
 
-[Application walkthrough](docs/galleries/pitomo.md) · [Static cover](assets/static/pitomo.png)
+[Source and run instructions](https://github.com/susmogus228/pitomo) · [Application walkthrough](docs/galleries/pitomo.md) · [Static cover](assets/static/pitomo.png)
 
 ## DemandForecast
 
@@ -34,7 +34,7 @@ An hourly-demand experiment with chronological evaluation and comparisons agains
 
 Python · scikit-learn · time-series evaluation
 
-[Application walkthrough](docs/galleries/demandforecast.md) · [Static cover](assets/static/demand.png)
+[Source and run instructions](https://github.com/susmogus228/demand-forecast) · [Application walkthrough](docs/galleries/demandforecast.md) · [Static cover](assets/static/demand.png)
 
 ## RouteLab
 
@@ -44,7 +44,7 @@ A weighted-grid laboratory for optimal paths and the consequences of closing a c
 
 Python · A* / Dijkstra · resilience experiments
 
-[Application walkthrough](docs/galleries/routelab.md) · [Static cover](assets/static/route.png)
+[Source and run instructions](https://github.com/susmogus228/route-lab) · [Application walkthrough](docs/galleries/routelab.md) · [Static cover](assets/static/route.png)
 
 ## UnknownVision
 
@@ -54,7 +54,7 @@ An image-classification reliability pilot: confident errors, unfamiliar inputs a
 
 ONNX Runtime · open-set detection · local Python API
 
-[Application walkthrough](docs/galleries/unknownvision.md) · [Static cover](assets/static/vision.png)
+[Source and run instructions](https://github.com/susmogus228/unknown-vision) · [Application walkthrough](docs/galleries/unknownvision.md) · [Static cover](assets/static/vision.png)
 
 ## Reliable Text Lab
 
@@ -64,7 +64,7 @@ Three connected repositories: spam classification, duplicate-search algorithms a
 
 Python · TF-IDF / SVM · MinHash / LSH · reproducible research
 
-[Application walkthrough](docs/galleries/reliable-text.md) · [Static cover](assets/static/text.png)
+[Source and run instructions](https://github.com/susmogus228/reliable-text-classifier) · [Application walkthrough](docs/galleries/reliable-text.md) · [Static cover](assets/static/text.png)
 
 ## Repositories and current limits
 

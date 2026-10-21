@@ -1,13 +1,13 @@
 # Local presentation delivery
 
-This delivery prepares the GitHub profile and source repositories. It does not claim public repository creation, successful remote CI or a hosted backend.
+This delivery includes the GitHub profile and nine public source repositories. Current remote commit and CI evidence is recorded separately in `PUBLICATION_REPORT.md` and `publication-verification.json`. Source publication does not provide a hosted backend.
 
 ## Delivered
 
 - Eight annotated walkthroughs, 70 actual screenshots, English explanations and explicit feature-coverage boundaries.
 - Seven separately generated full-resolution PNG cover masters, seven static web PNGs and seven six-second animated GIFs. Titles remain stationary in all 72 decoded frames.
 - One KS avatar original and a verified 512-pixel upload file below GitHub's one-MB limit.
-- Current source snapshots for eight projects: 1,141 original source files with hashes. Presentation headers accompany existing application READMEs. Pitomo/MicroBrain keep byte-identical Russian originals and new English entry guides.
+- Current source snapshots for eight projects: 1,142 source files with hashes, including the subsequent Pitomo CI repair report. Presentation headers accompany existing application READMEs. Pitomo/MicroBrain keep byte-identical Russian originals and new English entry guides.
 - Two actual duplicate-audit CLI executions, independently recomputed 30-row research summary and preserved original figures.
 - A profile preview using the actual GitHub Markdown API response with local assets and a local stylesheet.
 
@@ -23,9 +23,9 @@ The initial language cleanup corrected eight documents, with originals preserved
 
 Each walkthrough names the functions not newly exercised. Pitomo account-only checkout, delivery/admin/moderation and export flows were not opened with customer or admin data. MicroBrain's inference chain and background recovery were not freshly exercised in this capture session. UnknownVision's selected demonstrations and search articles do not establish useful arbitrary-photo recognition. Its saved demonstration review survived a fresh Python-server restart.
 
-Pitomo and MicroBrain still use Russian interfaces and legacy internal documentation. Their English public entry guides do not claim localization. Neither source tree currently supplies a project license. A user decision remains before claiming free reuse of those two projects. The six AI repositories retain their MIT licenses and separate data/model notices.
+Pitomo and MicroBrain still use Russian interfaces and legacy internal documentation. Their English public entry guides do not claim localization. The owner chose to leave both without a project license. The six AI repositories retain their MIT licenses and separate data/model notices.
 
-Git push and publication remain pending the user's explicit authorization, as required by their AGENTS.md. The account's existing unrelated repositories and security settings remain untouched. Permanent backend hosting and GitHub Pages remain outside this delivery.
+The owner explicitly authorized Git push and publication on 2026-10-21. The account's existing unrelated repositories and security settings remain untouched. Permanent backend hosting and GitHub Pages remain outside this delivery.
 
 ## Open locally
 
