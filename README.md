@@ -6,6 +6,18 @@ I study software and build experiments around data quality, algorithms and syste
 
 You can explore the source, run the applications on your own machine and inspect their recorded results. The web applications require their Python or Docker server; this profile does not host their backends.
 
+## IntentProbe
+
+![IntentProbe project cover](assets/static/intentprobe.png)
+
+A machine-learning experiment that selects clarification questions before recommending a project, with explicit constraint checks and outcomes for insufficient information.
+
+Python · scikit-learn · FastAPI · React
+
+**Evaluation limit:** no-feasible detection reached **84.6% (22/26)** on a synthetic audit, below the 95% target. This is not overall model accuracy or evidence of usefulness for real users.
+
+[Source and run instructions](https://github.com/susmogus228/intent-probe) · [Application walkthrough](https://github.com/susmogus228/intent-probe/blob/main/docs/images/README.md) · [Static cover](assets/static/intentprobe.png)
+
 ## MicroBrain Pocket
 
 ![MicroBrain Pocket project cover](assets/animated/microbrain.gif)
@@ -70,6 +82,7 @@ Python · TF-IDF / SVM · MinHash / LSH · reproducible research
 
 | Repository | Explore |
 |---|---|
+| [intent-probe](https://github.com/susmogus228/intent-probe) | [Screens and explanations](https://github.com/susmogus228/intent-probe/blob/main/docs/images/README.md) |
 | [route-lab](https://github.com/susmogus228/route-lab) | [Screens and explanations](docs/galleries/routelab.md) |
 | [demand-forecast](https://github.com/susmogus228/demand-forecast) | [Screens and explanations](docs/galleries/demandforecast.md) |
 | [unknown-vision](https://github.com/susmogus228/unknown-vision) | [Screens and explanations](docs/galleries/unknownvision.md) |

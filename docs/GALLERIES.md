@@ -4,6 +4,7 @@ Captured locally on 2026-10-21. Each image shows an actual application state or 
 
 | Project | Version | Images | Walkthrough |
 |---|---|---:|---|
+| IntentProbe | 0.2.0 | 3 current v2 captures | [Open gallery](https://github.com/susmogus228/intent-probe/blob/main/docs/images/README.md) |
 | RouteLab | 0.1.1 | 8 | [Open gallery](galleries/routelab.md) |
 | DemandForecast | 0.1.1 | 7 | [Open gallery](galleries/demandforecast.md) |
 | UnknownVision | 0.4.0 | 20 | [Open gallery](galleries/unknownvision.md) |
@@ -14,6 +15,8 @@ Captured locally on 2026-10-21. Each image shows an actual application state or 
 | MicroBrain Pocket | 0.2.0 | 11 | [Open gallery](galleries/microbrain.md) |
 
 ## Coverage boundaries
+
+IntentProbe was added to this index on 2026-10-23. Its separately recorded captures and their scope appear in the linked screenshot guide; the 2026-10-21 capture date above applies to the original portfolio galleries.
 
 A screenshot records one visible state. Use tests, API records, data hashes and restart evidence for behavior that a still image cannot establish. The individual galleries name the workflows not newly exercised during this capture session.
 

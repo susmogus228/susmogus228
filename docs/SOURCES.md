@@ -26,6 +26,10 @@ A separate image-generation call produced `assets/avatar/ks.png`, an original KS
 
 [GitHub's profile reference](https://docs.github.com/en/account-and-profile/reference/profile-reference) requires avatar files below 1 MB and 3000 × 3000 pixels, and recommends about 500 × 500. `assets/avatar/ks-512.png` is a resized PNG for that upload; the original remains unchanged. `avatar-verification.json` records its exact size and hashes.
 
+## IntentProbe cover addition
+
+On 2026-10-23, the user approved a separate static IntentProbe banner generated with the built-in image_gen tool. The existing RouteLab artwork supplied the portfolio style reference. The original 2172 x 724 PNG is included as `assets/static/intentprobe.png`; no resize or animation was applied. Its question-selection diagram is conceptual and contains no measured values. The profile links the project's current screenshot guide and states the synthetic evaluation limit of 84.6% (22/26) no-feasible detection, below the 95% target.
+
 ## Uploaded photo demonstration
 
 The upload walkthrough uses [The Blue Marble](https://science.nasa.gov/resource/the-blue-marble/), Apollo 17, AS17-148-22727. Credit: NASA / Johnson Space Center. Downloaded from NASA's image asset endpoint at a requested 1024-pixel size. NASA identifies this as an Apollo photograph; it is a public US government work. Preserve the credit and avoid implying NASA endorsement. The local app reduces the validated input to 512 pixels. The upload tests file handling and inference, not measured benchmark accuracy.
