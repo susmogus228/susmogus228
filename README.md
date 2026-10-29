@@ -6,6 +6,54 @@ I study software and build experiments around data quality, algorithms and syste
 
 You can explore the source, run the applications on your own machine and inspect their recorded results. The web applications require their Python or Docker server; this profile does not host their backends.
 
+## SleepScope
+
+![SleepScope project cover: illustrated sleep and EEG](assets/static/sleepscope.png)
+
+An EEG sleep-stage research workbench for comparing expert annotations, model predictions and errors across recordings.
+
+Python · scikit-learn · FastAPI · React
+
+**Evaluation limit:** V8 reached 87.59% accuracy on five held-out people from Sleep-EDF and 69.86% on another five from the same cohort. These are not external or clinical validation.
+
+[Source and run instructions](https://github.com/susmogus228/sleep-scope) · [Application screenshots](https://github.com/susmogus228/sleep-scope#explore-the-workbench) · [Research results](https://github.com/susmogus228/sleep-scope#measured-results-at-a-glance)
+
+## HeatTrace
+
+![HeatTrace project cover: satellite and urban surface temperature illustration](assets/static/heattrace.png)
+
+A Wuhan urban heat research workbench comparing Landsat surface-temperature observations, a trained model and its errors.
+
+Python · scikit-learn · satellite imagery · spatial evaluation
+
+**Study limit:** estimates surface temperature for a satellite scene; it is not a live weather service or air-temperature forecast.
+
+[Source and run instructions](https://github.com/susmogus228/heat-trace) · [Application screenshots](https://github.com/susmogus228/heat-trace#explore-the-workbench) · [Results and methodology](https://github.com/susmogus228/heat-trace/blob/main/docs/RESULTS.md)
+
+## SignalWatch
+
+![SignalWatch project cover: sensor-anomaly research illustration](assets/static/signalwatch.png)
+
+A sensor-anomaly research workbench for inspecting detections, false alerts and delay across model versions and baselines.
+
+Python · scikit-learn · time-series analysis · FastAPI
+
+**Evaluation limit:** the active model detected 26 of 28 annotated events in a retrospective audit, with 11.072 false starts per normal hour. False-alert control remains unresolved.
+
+[Source and run instructions](https://github.com/susmogus228/signal-watch) · [Application screenshots](https://github.com/susmogus228/signal-watch/blob/main/docs/SCREENSHOTS.md) · [Research history](https://github.com/susmogus228/signal-watch/blob/main/docs/RESEARCH_LOG.md)
+
+## QueueCraft
+
+![QueueCraft project cover: learned dispatch and scheduling trade-offs](assets/static/queuecraft.svg)
+
+A job-shop scheduling workbench comparing a trained dispatch scorer with heuristic rules and a constraint solver.
+
+Python · scikit-learn · OR-Tools CP-SAT · React
+
+**Evaluation limit:** synthetic test instances do not establish an advantage over every baseline; CP-SAT produced better schedules on the tested small cases.
+
+[Source and run instructions](https://github.com/susmogus228/queue-craft) · [Application screenshots](https://github.com/susmogus228/queue-craft#try-the-workbench) · [Results](https://github.com/susmogus228/queue-craft/blob/main/docs/RESULTS.md)
+
 ## IntentProbe
 
 ![IntentProbe project cover](assets/static/intentprobe.png)
@@ -82,6 +130,10 @@ Python · TF-IDF / SVM · MinHash / LSH · reproducible research
 
 | Repository | Explore |
 |---|---|
+| [sleep-scope](https://github.com/susmogus228/sleep-scope) | [Screens and explanations](https://github.com/susmogus228/sleep-scope#explore-the-workbench) |
+| [heat-trace](https://github.com/susmogus228/heat-trace) | [Screens and explanations](https://github.com/susmogus228/heat-trace#explore-the-workbench) |
+| [signal-watch](https://github.com/susmogus228/signal-watch) | [Screens and explanations](https://github.com/susmogus228/signal-watch/blob/main/docs/SCREENSHOTS.md) |
+| [queue-craft](https://github.com/susmogus228/queue-craft) | [Screens and explanations](https://github.com/susmogus228/queue-craft#try-the-workbench) |
 | [intent-probe](https://github.com/susmogus228/intent-probe) | [Screens and explanations](https://github.com/susmogus228/intent-probe/blob/main/docs/images/README.md) |
 | [route-lab](https://github.com/susmogus228/route-lab) | [Screens and explanations](docs/galleries/routelab.md) |
 | [demand-forecast](https://github.com/susmogus228/demand-forecast) | [Screens and explanations](docs/galleries/demandforecast.md) |
