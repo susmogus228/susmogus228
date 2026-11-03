@@ -6,6 +6,10 @@ I study software and build experiments around data quality, algorithms and syste
 
 You can explore the source, run the applications on your own machine and inspect their recorded results. The web applications require their Python or Docker server; this profile does not host their backends.
 
+## Recommendation
+
+[Letter of recommendation from Nihao Study](docs/recommendations/nihao-study-2026.pdf) · November 2026
+
 ## SleepScope
 
 ![SleepScope project cover: illustrated sleep and EEG](assets/static/sleepscope.png)
