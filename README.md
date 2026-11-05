@@ -10,6 +10,18 @@ You can explore the source, run the applications on your own machine and inspect
 
 [Letter of recommendation from Nihao Study](docs/recommendations/nihao-study-2026.pdf) · November 2026
 
+## GripLab
+
+![GripLab project cover: illustrated robotic arm and wrist laser](assets/static/griplab.png)
+
+A robotics research workbench for simulated object detection, laser-guided measurement and learned grasping.
+
+Python · Bullet physics · Three.js · behavioral cloning
+
+**Evaluation limit:** on 100 simulated single-object scenes, the controller held 54 of 54 attempted grasps and declined 46 as too wide. One declined object was later held in a separate forced attempt. These results do not establish real-world performance.
+
+[Source and run instructions](https://github.com/susmogus228/grip-lab) · [Application screenshots](https://github.com/susmogus228/grip-lab#explore-the-project) · [Results and limitations](https://github.com/susmogus228/grip-lab/blob/main/docs/RESULTS.md)
+
 ## SleepScope
 
 ![SleepScope project cover: illustrated sleep and EEG](assets/static/sleepscope.png)
@@ -134,6 +146,7 @@ Python · TF-IDF / SVM · MinHash / LSH · reproducible research
 
 | Repository | Explore |
 |---|---|
+| [grip-lab](https://github.com/susmogus228/grip-lab) | [Screens and explanations](https://github.com/susmogus228/grip-lab#explore-the-project) |
 | [sleep-scope](https://github.com/susmogus228/sleep-scope) | [Screens and explanations](https://github.com/susmogus228/sleep-scope#explore-the-workbench) |
 | [heat-trace](https://github.com/susmogus228/heat-trace) | [Screens and explanations](https://github.com/susmogus228/heat-trace#explore-the-workbench) |
 | [signal-watch](https://github.com/susmogus228/signal-watch) | [Screens and explanations](https://github.com/susmogus228/signal-watch/blob/main/docs/SCREENSHOTS.md) |
