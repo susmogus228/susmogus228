@@ -10,6 +10,18 @@ You can explore the source, run the applications on your own machine and inspect
 
 [Letter of recommendation from Nihao Study](docs/recommendations/nihao-study-2026.pdf) · November 2026
 
+## AssembleLab
+
+![AssembleLab project cover: illustrated robot stacking blocks](https://raw.githubusercontent.com/susmogus228/assemble-lab/main/docs/images/assemblelab-banner.png)
+
+A robotics research prototype for color-selective block stacking with simulated cameras, a wrist ray and contact feedback.
+
+Python · PyBullet · Three.js · simulated perception
+
+**Evaluation limit:** the experimental surface-tracking controller passed 2 of 6 simulated tower scenes. The controller is programmed and has not been validated on real hardware.
+
+[Source and run instructions](https://github.com/susmogus228/assemble-lab) · [Application screenshots](https://github.com/susmogus228/assemble-lab#what-we-measured) · [Experiment history](https://github.com/susmogus228/assemble-lab/blob/main/docs/EXPERIMENT_HISTORY.md)
+
 ## GripLab
 
 ![GripLab project cover: illustrated robotic arm and wrist laser](assets/static/griplab.png)
@@ -146,6 +158,7 @@ Python · TF-IDF / SVM · MinHash / LSH · reproducible research
 
 | Repository | Explore |
 |---|---|
+| [assemble-lab](https://github.com/susmogus228/assemble-lab) | [Screens and explanations](https://github.com/susmogus228/assemble-lab#what-we-measured) |
 | [grip-lab](https://github.com/susmogus228/grip-lab) | [Screens and explanations](https://github.com/susmogus228/grip-lab#explore-the-project) |
 | [sleep-scope](https://github.com/susmogus228/sleep-scope) | [Screens and explanations](https://github.com/susmogus228/sleep-scope#explore-the-workbench) |
 | [heat-trace](https://github.com/susmogus228/heat-trace) | [Screens and explanations](https://github.com/susmogus228/heat-trace#explore-the-workbench) |
@@ -166,3 +179,4 @@ Follow each repository's README to run it locally. Published source does not pro
 Pitomo and MicroBrain currently use a Russian interface; their English guides explain the controls. The AI projects use English. UnknownVision exposes substantial reliability failures on larger photos, so its gallery includes unsuccessful results. The generated banners illustrate project themes and contain no measured results.
 
 [Motion / accessibility](docs/MOTION.md) · [Sources](docs/SOURCES.md) · [Coverage and language review](docs/ENGLISH_REVIEW.md)
+
